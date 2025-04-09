@@ -56,19 +56,6 @@ This repository contains my completed job simulation project for PwC Switzerland
 - **Power BI:** Utilized for dashboard design and visualization.
 - **PDF & PowerPoint:** Reviewed client brief and prepared the final project presentation.
 
-## 📁 Repository Contents
-
-- **Data_Analytics Client Brief.pdf**  
-  Project background and client objectives.
-
-- **Content.xlsx**  
-  Raw data on content categories and engagement.
-
-- **Reactions.xlsx**  
-  User reaction data.
-
-- **Data Analytics template - Task 3_final.pptx**  
-  Final project presentation.
 
 ## 📝 Summary
 
