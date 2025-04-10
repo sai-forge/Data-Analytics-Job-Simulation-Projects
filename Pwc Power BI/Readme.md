@@ -1,62 +1,93 @@
 # PwC Switzerland Power BI Job Simulation – March 2025
 
-This repository contains my completed job simulation project for PwC Switzerland's Power BI Virtual Experience Program on Forage. The simulation focused on using data analytics to support a hypothetical client, **Social Buzz**—a rapidly growing social media platform preparing for an IPO.
+This project analyzes **Social Buzz**, a social media platform struggling with scalability and unstructured data management. The goal is to identify the **top 5 most popular content categories** to support their IPO preparation and operational efficiency. The analysis merges content metadata with user reaction data to calculate engagement scores.
 
-## 🔍 Overview
+## 📊 Project Overview
 
-- **Client:** Social Buzz  
-- **Industry:** Social Media & Content Creation  
-- **Project Focus:** Identifying the top 5 most popular content categories from unstructured user engagement data  
+**Client:** Social Buzz  
+**Industry:** Social Media & Content Creation  
+**Focus:** Analyze unstructured engagement data to identify the top 5 most popular content categories on the platform.
 
-## 🎯 Objectives
+### Problem
+Social Buzz is facing challenges in scaling its operations and managing large volumes of unstructured user engagement data — critical pain points as it prepares for an IPO.
 
-- **Data Analysis:**  
-  Analyze large-scale, unstructured reaction data to derive meaningful insights.
+### Objectives
+- Conduct a big data audit
+- Identify the top 5 most popular content categories
+- Deliver actionable insights through a Power BI dashboard and professional communication
 
-- **Content Insights:**  
-  Identify and present the most engaging content categories on the platform.
+---
 
-- **Professional Communication:**  
-  Simulate stakeholder communication by delivering data-backed insights in a professional manner.
+## 🎯 Purpose
 
-- **Dashboard Creation:**  
-  Practice developing Power BI dashboards aligned with real-world business goals.
+The goal of this simulation was to assist Social Buzz in achieving **sustainable growth** and **operational efficiency** through strategic, data-driven decision-making.
 
-## 💼 Key Deliverables
+Key steps included:
+1. Understanding client needs and objectives
+2. Identifying and cleaning relevant datasets
+3. Analyzing and visualizing engagement metrics
+4. Communicating insights in a stakeholder-friendly format
 
-- **Power BI Dashboard:**  
-  Visualizes top-performing content categories based on user reactions.
+---
 
-- **Data Cleaning & Integration:**  
-  Merged and validated datasets to ensure data consistency and accuracy.
+## ✅ Key Deliverables
 
-- **Client-Facing Communication:**  
-  Crafted a professional email presenting strategic insights and recommendations.
+| Deliverable                     | Description |
+|--------------------------------|-------------|
+| **Power BI Dashboard**         | Visualized top-performing content categories and KPIs |
+| **Data Cleaning & Integration**| Ensured data accuracy and readiness for analysis |
+| **Content Insights**           | Identified categories generating the most engagement |
+| **Gender KPI Analysis**        | Explored root causes for executive-level gender imbalance |
 
-- **Strategic Analysis:**  
-  Explored potential causes behind trends, including considerations of gender diversity issues at the executive level.
+---
 
-## 🧠 Skills Demonstrated
+## 🛠️ Tools Used
 
-- **Power BI Expertise:**  
-  Created visually appealing and insightful dashboards aligned with client KPIs.
+- **Microsoft Excel** – Data cleaning and preparation  
+- **Power BI** – Dashboard creation and data visualization  
+- **PowerPoint** – Final presentation delivery  
+---
 
-- **Data Analysis:**  
-  Interpreted engagement metrics and identified patterns in user reactions.
+## 🚀 How to Use
 
-- **Effective Communication:**  
-  Developed clear and concise client correspondence with actionable insights.
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/pwc-powerbi-job-simulation.git
+   cd pwc-powerbi-job-simulation
+   ```
 
-- **Problem Solving:**  
-  Addressed business challenges such as scalability and IPO preparation through data-driven recommendations.
+2. Open the datasets:
+   - `Content.xlsx`
+   - `ReactionTypes.xlsx`
 
-## 📊 Tools Used
+3. Launch Power BI and load the cleaned datasets to explore the dashboard:
+   - Use filters and visuals to explore the top 5 content categories.
 
-- **Microsoft Excel:** Used for data cleaning and preparation.
-- **Power BI:** Utilized for dashboard design and visualization.
-- **PDF & PowerPoint:** Reviewed client brief and prepared the final project presentation.
+4. View the presentation:
+   - `Data Analytics template - Task 3_final.pptx` contains the summary and final recommendations.
 
+---
 
-## 📝 Summary
+## 🤝 Contributing
 
-This simulation provided hands-on experience with real-world data challenges in a corporate consulting context. By helping a fast-growing tech client make sense of their user data, I enhanced my analytical and communication skills—both essential for any data professional.
+Contributions are welcome! Feel free to:
+- Fork the repository
+- Improve the dashboard or analysis
+- Submit a pull request with enhancements
+
+If you found this project helpful, give it a ⭐!
+
+---
+
+## 📄 License
+
+This project is part of a public virtual simulation and is for **educational and showcase purposes only**. No proprietary or confidential information is included.
+
+---
+
+## 🧠 Summary
+
+By completing this simulation, I:
+- Strengthened my **Power BI and analytical thinking** skills
+- Practiced **data-driven storytelling** in a business context
+- Delivered insights through **clear and professional communication**
