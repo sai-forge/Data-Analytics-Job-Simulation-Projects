@@ -2,7 +2,7 @@
 
 This project analyzes **Social Buzz**, a social media platform struggling with scalability and unstructured data management. The goal is to identify the **top 5 most popular content categories** to support their IPO preparation and operational efficiency. The analysis merges content metadata with user reaction data to calculate engagement scores.
 
-## 📊 Project Overview
+##  Project Overview
 
 **Client:** Social Buzz  
 **Industry:** Social Media & Content Creation  
@@ -18,7 +18,7 @@ Social Buzz is facing challenges in scaling its operations and managing large vo
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The goal of this simulation was to assist Social Buzz in achieving **sustainable growth** and **operational efficiency** through strategic, data-driven decision-making.
 
@@ -30,7 +30,7 @@ Key steps included:
 
 ---
 
-## ✅ Key Deliverables
+## Key Deliverables
 
 | Deliverable                     | Description |
 |--------------------------------|-------------|
@@ -41,14 +41,14 @@ Key steps included:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Microsoft Excel** – Data cleaning and preparation  
 - **Power BI** – Dashboard creation and data visualization  
 - **PowerPoint** – Final presentation delivery  
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository  
    ```bash
@@ -85,7 +85,7 @@ This project is part of a public virtual simulation and is for **educational and
 
 ---
 
-## 🧠 Summary
+## Summary
 
 By completing this simulation, I:
 - Strengthened my **Power BI and analytical thinking** skills
